@@ -1,5 +1,5 @@
 # Tennis-Data-Challenge
-Tennis hit prediction project for Quantum Sports Analytics
+Assignment for Quantum Sports Analytics.
 
 This repository contains two methods to detect **tennis ball hits and bounces** from ball-tracking data extracted from the Roland-Garros 2025 Final.
 
