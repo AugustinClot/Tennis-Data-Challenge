@@ -1,0 +1,10 @@
+Libraries to install
+
+json
+joblib
+numpy
+scipy
+sklearn
+pandas
+xgboost (optional, the trained model is already included)
+os
